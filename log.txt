@@ -1,0 +1,3 @@
+Single Process - Time Taken: 149.39s
+Multithreading - Time Taken: 137.12s
+Multiprocessing - Time Taken: 114.82s
